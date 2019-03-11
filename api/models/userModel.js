@@ -8,7 +8,7 @@ var UserSchema = new Schema({
     type: String,
     required: 'Name can\'t be empty'
   },
-  add: String,
+  address: String,
   leader: {
     type: Schema.Types.ObjectId,
     ref: 'User',
