@@ -1,5 +1,5 @@
 # Node-simple-REST
-My Playground for learning Node.js Backend Programming Language by making a simple REST API using MongoDB.
+My Playground for learning Node.js Backend Programming Language on Express Framework by making a simple REST API using MongoDB.
 
 ## Project description
 Make tree of users that each user can have one leader and many members
